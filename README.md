@@ -15,4 +15,4 @@ Me chamo Estela, tenho vivência com a tecnologia há +7 anos buscando sempre at
    [![Linkedin Badge](https://img.shields.io/badge/-Estela.Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estelaa-martins/)](https://www.linkedin.com/in/estelaa-martins/) 
    [![Gmail Badge](https://img.shields.io/badge/-Projetos.Estela-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:projetos.estelamartins@gmail.com)](mailto:projetos.estelamartins@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-taamagotchii-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/taamagotchii/)](https://www.instagram.com/taamagotchii/) 
-   [![Facebook Badge](https://img.shields.io/badge/-Estela_martins-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/taamagotchii/)](https://www.facebook.com/taamagotchii/)
+   [![Twitter Badge](https://img.shields.io/badge/-tamagoshii0-036be4?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/tamagoshii0)](https://twitter.com/tamagoshii0)
