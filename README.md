@@ -1,7 +1,7 @@
 ## Bem vindx!
 
 ### Olá!👋
-Me chamo Estela, tenho vivência com a tecnologia há +7 anos buscando sempre atualizações no mercado. XP em Suporte/Gestão de TI e atualmente Analista de Desenvolvimento de Sistema.
+Me chamo Ethan, tenho vivência com a tecnologia há +7 anos buscando sempre atualizações no mercado. XP em Suporte/Gestão de TI e atualmente Analista de Desenvolvimento de Sistema.
 
 **:floppy_disk: Linguagens e Ferramentas:**
 
